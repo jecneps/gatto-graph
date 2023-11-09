@@ -1,0 +1,27 @@
+- Meta
+- TOC
+	- [[Prologue]]
+	- ## Part 1: Of Schooling, Education, and Myself
+		- [[Chapter One: The Way It Used To Be]]
+		- [[Chapter Two: An Angry Look at Modern Schooling]]
+		- [[Chapter Three: Eyeless in Gaza]]
+		- [[Chapter Four: I Quit, I Think]]
+	- ## Part 2: The Foundations of Schooling
+		- [[Chapter Five: True Believers And The Unspeakable Chautauqua]]
+		- [[Chapter Six: The Lure of Utopia]]
+		- [[Chapter Seven: The Prussian Connection]]
+		- [[Chapter Eight: A Coal-Fired Dream World]]
+		- [[Chapter Nine: The Cult Of Scientific Management]]
+	- ## Part 3: A Personal Interlude
+		- [[Chapter Ten: My Green River]]
+	- ## Part 4: Metamorphosis
+		- [[Chapter Eleven: The Crunch]]
+		- [[Chapter Twelve: Daughters of the Barons Of Runnemede]]
+		- [[Chapter Thirteen: The Empty Child]]
+		- [[Chapter Fourteen: Absolute Absolution]]
+		- [[Chapter Fifteen: The Psychopathology Of Everyday]]
+	- ## Part 5: The Problem of Modern Schooling
+		- ### [[Chapter Sixteen: A Conspiracy Against Ourselves]]
+		- ### [[Chapter Seventeen: The Politics Of Schooling]]
+		- ### [[Chapter Eighteen: Breaking Out Of The Trap]]
+	- [[Epilogue]]

@@ -1,0 +1,32 @@
+- meta
+- Page
+	- Running Log
+		- [[Nov 9th, 2023]]
+			- LATER ((654cf011-873f-4c8d-9555-046a60ec3fc8)) do I really want to source quotes from easy popular things like 1984?
+			- LATER ((654cf011-5a70-4437-b9fe-90eabde1be1f))
+				- Actually titled "Education and Culture", one source is [here](https://www.panarchy.org/tolstoy/education.html) and a book that it's in is "Tolstoy on Education"
+			- LATER will [[The Hoosier Schoolmaster]] be quoted from? I wonder if I want to include that. Also pondering how much of seconadry sources I'm going to actually read...
+				- It's noted for it's historical accuracy though, so that's cool
+			- LATER ((654cf011-02ca-414a-941d-3885a3300143))
+			- LATER The "homily on obedience", interesting history! Quote [here](((654cf011-647f-48d8-b32f-58fe7a705464)))
+				- Uncertainty about how to wiki-link
+			- advert for a run away, seems like the sort of thing not worth tracking down ((654cf011-b48c-4975-9905-d498d77d1689))
+			- LATER who the fuck is Thomas Beveridge? Seems like this is going to be hard to track down and not worth?
+				- ((654cf011-b312-469f-93f9-e6e97cf9dd8e))
+			-
+			- DECISION: not linking eggleston here ((654cf011-ffd8-49ee-83eb-bd4709515642))
+			- LATER SOURCE quotes for [[The Intimate Papers of Colonel House]]
+			- DECISION [[Hopkins Grammar School]] seems worth wiki-linking
+			- LATER Quote to us state dept terrorism state... [here](((654cf011-855f-4fb0-ab23-66bcb243c78b))) not sure if worth
+			- LATER ((654cf011-6f11-41f5-8f11-4bdf06d388be))
+			- LATER maybe source [[Robert Owen]] biography to get "ten rules of schooling" ((654cf011-2618-4ef7-ad34-9ded757618ed))
+			- LATER #format-q [here](((654cf011-0af2-4d64-a468-140a1823648d))) do i want to link platos academy and aritstotle lyceum?
+			- LINKING-Q: for refs like ["the quiet teachers-pay revolution in the '60s"](((654cf011-eb59-4460-964c-e5ea36ffecbf))) do i want to timeline "big shifts" like this that he refs?
+			-
+			-
+			-
+			-
+			-
+			-
+			-
+			-
