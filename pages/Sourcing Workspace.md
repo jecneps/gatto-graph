@@ -2,6 +2,7 @@
 - Page
 	- Running Log
 		- [[Nov 9th, 2023]]
+		  collapsed:: true
 			- LATER ((654cf011-873f-4c8d-9555-046a60ec3fc8)) do I really want to source quotes from easy popular things like 1984?
 			- LATER ((654cf011-5a70-4437-b9fe-90eabde1be1f))
 				- Actually titled "Education and Culture", one source is [here](https://www.panarchy.org/tolstoy/education.html) and a book that it's in is "Tolstoy on Education"
@@ -30,3 +31,22 @@
 			-
 			-
 			-
+		- [[Nov 10th, 2023]]
+			- LATER link NYT article ((654d5f5a-5ce1-412e-bfb1-e1ac34f8b62f))
+			- LATER allusion to some source ((654d5f5a-1a1d-4a3a-bc73-8f5e271c3314))
+			- DECISION wiki-link The Civil War
+			- LATER link ww speech ((654d5f5a-8ebb-4f58-ae20-2ff01c7f28bd))
+			- LATER ((654d5f5a-2359-4bbd-b54a-9f53a1f09252)) source wuote
+			- LATER ((654d5f5a-9480-4b76-a095-70b72b69bf8e))
+			- DONE which John Astor was active in this time period?
+			  :LOGBOOK:
+			  CLOCK: [2023-11-10 Fri 11:18:27]--[2023-11-10 Fri 11:18:28] =>  00:00:01
+			  :END:
+			- LATER ((654d5f5a-16be-4b62-a41e-4e51908bfedf))
+			- LATER ((654d5f5a-5ba6-450d-89a5-5b99bb7c0c1a)) hunt this down again
+			-
+			-
+	- Schema
+		- Developing
+		- Established
+		-
