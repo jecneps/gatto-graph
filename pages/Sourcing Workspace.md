@@ -32,6 +32,7 @@
 			-
 			-
 		- [[Nov 10th, 2023]]
+		  collapsed:: true
 			- LATER link NYT article ((654d5f5a-5ce1-412e-bfb1-e1ac34f8b62f))
 			- LATER allusion to some source ((654d5f5a-1a1d-4a3a-bc73-8f5e271c3314))
 			- DECISION wiki-link The Civil War
@@ -44,7 +45,17 @@
 			  :END:
 			- LATER ((654d5f5a-16be-4b62-a41e-4e51908bfedf))
 			- LATER ((654d5f5a-5ba6-450d-89a5-5b99bb7c0c1a)) hunt this down again
+			- LATER  Hunting down the military literacy refs
+				- ((654d51de-9740-48f8-8728-e28f739f6ad7))
+				- Okay, looking for Regna Lee Wood
+					- weird html page "the dumbell curve" [link](http://www.ernestcooley.com/u/dumbbell.htm#2)
+						- cites encylopoedia britanica year book
+						- also cites [[Marginal Man and Military Service]]
+							- this cites something about korea
+								- cites [[The Uneducated]]
+								-
 			-
+		- [[Nov 12th, 2023]]
 			-
 	- Schema
 		- Developing

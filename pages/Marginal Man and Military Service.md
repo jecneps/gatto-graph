@@ -1,0 +1,3 @@
+- Meta
+	- ![marginal_man_and_military_service.pdf](../assets/marginal_man_and_military_service_1699659862490_0.pdf)
+	-
